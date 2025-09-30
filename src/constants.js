@@ -1,0 +1,1 @@
+export const DB_NAME = process.sourceMapsEnabled.DB_NAME;
